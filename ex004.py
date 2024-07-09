@@ -1,0 +1,6 @@
+algo = input("Digite algo")
+print(f'O tipo é: {type(algo)}')
+print('É alfabético: ', algo.isalpha())
+print('é alfanumerico: ', algo.isalnum())
+print(algo.isalpha())
+print(algo.isalpha())
